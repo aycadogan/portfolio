@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #111827;
+}
+.topnav{
+    width: 100%;
+    height: 150px;
+    background-color: #111827;
+    position: fixed;
+ 
+    
+}
+.nav-right{
+    float: right;
+    margin: 35px 20px 20px 20px;
+}
+.nav-right a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding:25px 25px 25px 25px;
+    display: inline-block;
+    font-size: 20px;
+}
+.para1{
+    width: 710px;
+    height: 186px;
+    float: left;
+    display: block;
+    line-height: 90px;
+}
+.para1 .firstline{
+    margin-top:250px;
+    margin-left: 70px;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+.para1 .name{
+    color: #FD4370;
+}
+.para1 .secondline{
+    color:white;
+    margin-left: 70px;
+    font-size: 26px;
+    font-weight: lighter;
+}
+.para1 .button{
+    color: white;
+    margin-left: 70px;
+    padding: 20px 20px 20px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FD4370;
+    padding: 20px 40px 20px 40px;
+    border-width: 1px;
+    border-color: #FD4370;
+    border-style: solid;
+    border-radius: 10px;
+}
+#work{
+    height: 600px;
+    margin-top: 70%;
+    margin-left: 70px;
+    color: white;
+}
+#work .image-line{
+    display: inline-block;
+    padding-top: 20px;
+}
+#work .work-title{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    text-align: center;
+}
+#work .para2{
+    width: 460px;
+    color: white;
+    font-size:40px ;
+    font-weight: bold;
+    line-height: 60px;
+    margin-top: 30px;
+}
+#about{
+    height: 700px;
+    margin-left: 70px;
+    color: white;
+}
+#about .image-line2{
+    display: inline-block;
+}
+#about .about-title{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+#about .para3{
+    width: 600px;
+    color: white;
+    font-size:40px ;
+    font-weight: bold;
+    line-height: 60px;
+    margin-top: 40px;
+}
+#about .image-line3{
+    margin-top: 100px;
+}
+#about .para4{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+.para5{
+    float: left;
+    margin-top: 35px;
+    width: 550px;
+    height: 165px;
+    font-size: 25px;
+}
+.image-about{
+    float: right;
+    margin-right: 40px;
+}
+#connect{
+    display: inline-block;
+    width: 100%;
+    height: 600px;
+    margin-left: 70px;
+    color: white;
+}
+#connect .image-line4{
+    margin-top: 100px;
+}
+#connect .connect-title{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+#connect .para6{
+    width: 600px;
+    color: white;
+    font-size:40px ;
+    font-weight: bold;
+    line-height: 60px;
+    margin-top: 30px;
+}
+#form{
+    margin-top: 80px;
+}
+.formclass{
+    font-size: 25px;
+    font-weight: bold;
+    color: #FD4370;
+}
+#name{
+    margin-top: 10px;
+    width: 365px;
+    height: 46px;
+    border-color: #dddddd;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#email{
+    margin-top: 10px;
+    width: 365px;
+    height: 46px;
+    border-color: #dddddd;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#message{
+    margin-top: 10px;
+    width: 365px;
+    height: 120px;
+    border-color: #dddddd;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.button2{
+    color: white;
+    margin-top: 20px;
+    padding: 20px 20px 20px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FD4370;
+    padding: 20px 40px 20px 40px;
+    border-width: 1px;
+    border-color: #FD4370;
+    border-style: solid;
+    border-radius: 10px;
+}
